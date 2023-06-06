@@ -1,1 +1,2 @@
-web
+The course of web technology application is taught by Professor Wu Weimin. He is a very gentle teacher, and I really like him. In addition to the theoretical course, this course also includes four experimental reports, namely 1. Installation and configuration of web servers, 2. Basic application of hypertext language, 3. Client script and special effects production, 4. Dynamic homepage design, and the final course assignment.
+
