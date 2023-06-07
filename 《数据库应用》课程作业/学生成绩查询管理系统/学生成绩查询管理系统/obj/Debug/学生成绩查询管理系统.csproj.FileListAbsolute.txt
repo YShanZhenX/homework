@@ -1,0 +1,8 @@
+D:\xscjgl\学生成绩查询管理系统\学生成绩查询管理系统\bin\Debug\学生成绩查询管理系统.exe.config
+D:\xscjgl\学生成绩查询管理系统\学生成绩查询管理系统\bin\Debug\学生成绩查询管理系统.exe
+D:\xscjgl\学生成绩查询管理系统\学生成绩查询管理系统\bin\Debug\学生成绩查询管理系统.pdb
+D:\xscjgl\学生成绩查询管理系统\学生成绩查询管理系统\obj\Debug\学生成绩查询管理系统.csproj.AssemblyReference.cache
+D:\xscjgl\学生成绩查询管理系统\学生成绩查询管理系统\obj\Debug\学生成绩查询管理系统.csproj.SuggestedBindingRedirects.cache
+D:\xscjgl\学生成绩查询管理系统\学生成绩查询管理系统\obj\Debug\学生成绩查询管理系统.csproj.CoreCompileInputs.cache
+D:\xscjgl\学生成绩查询管理系统\学生成绩查询管理系统\obj\Debug\学生成绩查询管理系统.exe
+D:\xscjgl\学生成绩查询管理系统\学生成绩查询管理系统\obj\Debug\学生成绩查询管理系统.pdb
