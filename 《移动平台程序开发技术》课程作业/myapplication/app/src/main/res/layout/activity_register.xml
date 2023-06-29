@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/bg"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RegisterActivity">
+    <ImageView
+        android:id="@+id/register_return"
+        android:layout_marginTop="45dp"
+        android:layout_marginLeft="20dp"
+        android:src="@drawable/back"
+        android:layout_width="17dp"
+        android:layout_height="17dp" />
+    <TextView
+        android:textSize="25sp"
+        android:text="@string/register"
+        android:layout_marginTop="25dp"
+        android:layout_marginLeft="30dp"
+        android:textColor="@color/fontText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <LinearLayout
+        android:layout_marginTop="40dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:textColor="@color/fontText"
+            android:layout_marginLeft="30dp"
+            android:text="@string/reg_nick_name"
+            android:textSize="16sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <EditText
+            android:textColorHint="@color/input_text_hint"
+            android:background="@null"
+            android:id="@+id/reg_username"
+            android:layout_marginLeft="55dp"
+            android:textSize="16sp"
+            android:hint="@string/reg_nick_hint"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+    <ImageView
+        android:id="@+id/reg_diver1"
+        android:layout_marginTop="17dp"
+        android:layout_gravity="center_horizontal"
+        android:background="@color/input_text_hint"
+        android:layout_width="320dp"
+        android:layout_height="1dp" />
+    <LinearLayout
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:textColor="@color/fontText"
+            android:layout_marginLeft="30dp"
+            android:text="@string/reg_id"
+            android:textSize="16sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <EditText
+            android:textColorHint="@color/input_text_hint"
+            android:background="@null"
+            android:id="@+id/reg_userid"
+            android:layout_marginLeft="55dp"
+            android:textSize="16sp"
+            android:hint="@string/name_hint"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+    <ImageView
+        android:id="@+id/reg_diver2"
+        android:layout_marginTop="17dp"
+        android:layout_gravity="center_horizontal"
+        android:background="@color/input_text_hint"
+        android:layout_width="320dp"
+        android:layout_height="1dp" />
+    <LinearLayout
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:textSize="16sp"
+            android:textColor="@color/fontText"
+            android:layout_marginLeft="30dp"
+            android:text="@string/reg_passwd"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <EditText
+            android:textColorHint="@color/input_text_hint"
+            android:background="@null"
+            android:inputType="textPassword"
+            android:id="@+id/reg_passwd"
+            android:layout_marginLeft="55dp"
+            android:textSize="16sp"
+            android:hint="@string/passwd_hint"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+    <ImageView
+        android:id="@+id/reg_diver3"
+        android:layout_marginTop="17dp"
+        android:layout_gravity="center_horizontal"
+        android:background="@color/input_text_hint"
+        android:layout_width="320dp"
+        android:layout_height="1dp" />
+    <LinearLayout
+        android:layout_marginTop="40dp"
+        android:gravity="center_horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:id="@+id/btn_register"
+            android:layout_width="321dp"
+            android:layout_height="48dp"
+            android:background="@drawable/button_shape"
+            android:text="@string/register"
+            android:textColor="@color/buttonText"
+            android:textSize="16sp" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <!--自定义颜色-->
+    <color name="titleText">#181818</color>
+    <color name="buttonText">#FFFFFF</color>
+    <color name="bg">#EDEDED</color>
+    <color name="fontText">#353535</color>
+    <color name="buttonBackground">#07C160</color>
+    <color name="input_text_hint">#D8D8D8</color>
+</resources>
